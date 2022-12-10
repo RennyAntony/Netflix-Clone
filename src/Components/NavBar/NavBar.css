@@ -1,0 +1,25 @@
+
+.navbar{
+    /* position:fixed;
+    top:0;
+    width:100%;
+    height:1vw;
+    padding:1.1vw; */
+    display:flex;
+    justify-content:space-between;
+    background-color:black;
+
+
+}
+.logo{
+    position:fixed;
+    left:1vw;
+    width:5.5vw;
+    top:0.7vw;
+}
+.avatar{
+    position:fixed;
+    right:1.5vw;
+    width:1.75vw;
+    top:0.5vw;
+}
