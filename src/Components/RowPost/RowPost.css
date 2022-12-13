@@ -1,7 +1,7 @@
 .row{
     margin-left: 2vw;
     color:#fff;
-    width:100vw;
+    width:100%;
 }
 .row h2{
     width: 100%;
@@ -12,6 +12,7 @@
     padding:1vw;
     overflow-x:scroll;
     overflow-y:hidden;
+    width: 100%;
 } 
 .posters::-webkit-scrollbar{
     display:none;
@@ -19,7 +20,6 @@
 
 .poster{
     max-height:9vw;
-   margin-right: 1vw;
    cursor:pointer;
 }
 .smallPoster{

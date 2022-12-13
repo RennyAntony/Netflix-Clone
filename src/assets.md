@@ -8,7 +8,7 @@ card = 'https://images.squarespace-cdn.com/content/v1/59232e19579fb3fa44a693c2/1
 
 //////////////////////////////////////////////////////////////API's//////////////////////////////////////////////////////////////////////////
 
-imageUrl = 'https://image.tmdb.org/t/p/original'
+<!-- imageUrl = 'https://image.tmdb.org/t/p/original' -->
 
 apiBaseUrl='https://api.themoviedb.org/3'
 

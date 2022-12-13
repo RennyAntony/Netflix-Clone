@@ -1,10 +1,11 @@
 .banner{
-   /* background-image:url(); */
+  
    background-size:cover;
    height:31vw;
    color:white;
    
 }
+
 .content{
     padding-top:9vw;
     height:9.5vw;
